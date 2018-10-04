@@ -1,0 +1,23 @@
+body {
+    padding-top: 5rem;
+  }
+  .starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+
+  .cartoon {
+    width: 100%;
+    max-width: 750px;
+    height: auto;
+  }
+
+  .cartoon1 {
+    width: 50%;
+    max-width: 250px;
+    height: auto;
+  }
+
+  .bg {
+    background-color: #8c43ff;
+  }
